@@ -9,3 +9,6 @@ class Discussion{
         this.dateCreated = dateCreated;
     }
 }
+
+
+module.exports = Discussion;

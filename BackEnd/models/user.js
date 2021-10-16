@@ -13,3 +13,6 @@ class User{
         this.profession = profession;
     }
 }
+
+
+module.exports = User;

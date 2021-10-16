@@ -13,3 +13,6 @@ class Question{
         this.discussionId = discussionId;
     }
 }
+
+
+module.exports = Question;

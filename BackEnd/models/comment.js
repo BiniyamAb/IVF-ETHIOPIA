@@ -13,3 +13,5 @@ class Comment{
         this.dateCommented = dateCommented;
     }
 }
+
+module.exports = Comment;
